@@ -1,7 +1,7 @@
 # Hey there 👋, I'm Panji Kusumah!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/panji-kusumah/">
+  <a href="https://www.linkedin.com/in/panij-kusumah-3366403b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bandung%2C%20ID-red?style=for-the-badge&logo=google-maps&logoColor=white" />
